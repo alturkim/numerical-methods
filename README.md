@@ -22,7 +22,7 @@ Here is a list of numerical algorithms implemented using Matlab as a part of a N
         * Accelerated power method.
         * Shifted power method.
         * Inverse power method.
-        * Jacobi's method.
+     * Jacobi's method.
 
 * Roots finding problem:
     * Bairstow's method
