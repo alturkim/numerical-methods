@@ -4,7 +4,7 @@ Here is a list of numerical algorithms implemented using Matlab as a part of a N
 
 
 * Solving Linear Systems:
-    * Direct Metods: 
+    * Direct metods: 
         * Gaussain elimination.
         * Gaussain elimination with partial pivoting.
         * Gaussain elimination with scaled partial pivoting.
